@@ -1,14 +1,6 @@
-# devops-report-state-of-devops
-
 ![](https://img.shields.io/badge/language-markdown-blue)
 ![](https://img.shields.io/badge/technology-devops-blue)
 ![](https://img.shields.io/badge/development%20year-2021-orange)
-
-![](https://img.shields.io/github/languages/top/shijiansu/devops-report-state-of-devops)
-![](https://img.shields.io/github/languages/count/shijiansu/devops-report-state-of-devops)
-![](https://img.shields.io/github/languages/code-size/shijiansu/devops-report-state-of-devops)
-![](https://img.shields.io/github/repo-size/shijiansu/devops-report-state-of-devops)
-![](https://img.shields.io/github/last-commit/shijiansu/devops-report-state-of-devops?color=red)
 
 ## Outline
 
